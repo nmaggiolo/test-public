@@ -1,0 +1,11 @@
+# Runtime data
+value.txt
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
