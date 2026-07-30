@@ -1,0 +1,5 @@
+"""Package init — exposes the FastAPI application."""
+
+from .main import app
+
+__all__ = ["app"]
